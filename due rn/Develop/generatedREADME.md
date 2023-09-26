@@ -1,8 +1,8 @@
 
-# example
+# Quality ReadMe Generator
 
 ## Description
-example
+This is meant to generate a readme quickly 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,22 +13,22 @@ example
 - [Questions](#questions)
 
 ## Installation
-example
+To install all you have to do is download the provided files and then simple run the index.js with node
 
 ## Usage
-example
+run the code with node and then answer the prompts in the command line
 
 ## License
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This application is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+This application is not covered under any license.
 
 ## Contributing
-example
+If you want to contribute simple clone the repo and push
 
 ## Tests
-example
+running test are pretty simple just follow the basic js protocols
 
 ## Questions
-GitHub: [example](https://github.com/example)
-Email: example
+GitHub: [BeginnerLevelUp](https://github.com/BeginnerLevelUp)
+Email: morgandamion5680@gmail.com
